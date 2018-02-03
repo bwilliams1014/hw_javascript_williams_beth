@@ -1,5 +1,5 @@
 # JavaScript Homework
-*Beth Williams
+* Beth Williams
 * February 3, 2018
 * https://github.com/bwilliams1014/hw_javascript_williams_beth
 
